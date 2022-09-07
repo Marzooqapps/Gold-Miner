@@ -1,0 +1,14 @@
+.\goldminer.o: GoldMiner.c
+.\goldminer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\goldminer.o: ../inc/tm4c123gh6pm.h
+.\goldminer.o: ST7735.h
+.\goldminer.o: Print.h
+.\goldminer.o: Random.h
+.\goldminer.o: TExaS.h
+.\goldminer.o: ADC.h
+.\goldminer.o: Images.h
+.\goldminer.o: Sound.h
+.\goldminer.o: Timer1.h
+.\goldminer.o: EdgeInterrupt.h
+.\goldminer.o: SysTick.h
+.\goldminer.o: Timer2.h
